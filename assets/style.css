@@ -992,6 +992,30 @@ section.main .post:last-child {
 	margin: 20px 0;
 }
 
+section.newslettersection {
+	margin: 0;
+	background: rgba(0,0,0,0.5);
+}
+
+.newsletterwrapper {
+	margin: 0 auto;
+    padding: 50px 20px;
+    color: #fff;
+}
+
+.nl-small {
+	font-size: 0.6rem;
+}
+
+.newsletterform {
+	text-align: center;
+	margin: 1rem auto;
+}
+
+.nl-input, .nl-submit {
+	font-size: 1.4rem;
+	margin-bottom: 1rem;
+}
 
 /************************ Contact Form ************************/
 
